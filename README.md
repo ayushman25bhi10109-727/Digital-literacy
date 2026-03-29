@@ -18,38 +18,6 @@ digital-literacy-project/
 └── task-5-cybercrime/
     ├── casestudy.md
     └── prevention-checklist.md
-
-CSE0001 – Digital Literacy Project
-VIT Bhopal University | VITyarthi E-Learning Platform
-Student Details
-Field Details
-Name [Your Full Name]
-Registration No. [Your Reg No.]
-Branch [Your Branch, e.g., CSE / ECE / MECH]
-Year First Year B.Tech
-Course Code CSE0001 – Digital Literacy
-Project Overview
-This repository contains my Digital Literacy Portfolio, submitted as part of the CSE0001
-course. As a Student Digital Ambassador, I worked through five tasks covering digital tools,
-online presence, coding platforms, professional communication, and cybercrime awareness.
-Repository Structure
-digital-literacy-project/
-├── README.md
-├── report/
-│ └── Project_Report.docx
-├── task-1-presentation/
-│ └── [infographic screenshot / Canva link]
-├── task-2-portfolio/
-│ └── [screenshots of GitHub, LinkedIn, Kaggle profiles]
-├── task-3-platforms/
-│ └── [coding challenge screenshot, Google Form screenshot]
-├── task-4-email-etiquette/
-│ ├── email1.txt
-│ ├── email2.txt
-│ └── social-media-checklist.md
-└── task-5-cybercrime/
-├── casestudy.md
-└── prevention-checklist.md
 ## Task Summaries
 # Task 1 – Digital Literacy Infographic 
 Created a one-page infographic using Canva covering what digital literacy is, safe internet
