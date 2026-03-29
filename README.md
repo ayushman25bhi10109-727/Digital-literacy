@@ -51,6 +51,8 @@ Collaboration Google Forms, Google Sheets
 Report Microsoft Word
 ## References
 Digital Literacy definition: digitalliteracy.com
+
 Cybercrime statistics: National Cyber Crime Portal – cybercrime.gov.in
+
 Email etiquette guidelines: Grammarly Blog
 HackerRank: hackerrank.com
