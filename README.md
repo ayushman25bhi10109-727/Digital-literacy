@@ -18,7 +18,7 @@ digital-literacy-project/
 └── task-5-cybercrime/
     ├── casestudy.md
     └── prevention-checklist.md
-## Task Summaries
+# Task Summaries
 # Task 1 – Digital Literacy Infographic 
 Created a one-page infographic using Canva covering what digital literacy is, safe internet
 practices, and professional online presence. The design targets first-year students who are
@@ -42,7 +42,7 @@ Don’ts checklist.
 Researched UPI/Online Payment Fraud and wrote a detailed case study on how it targets
 college students. Created an 8-point prevention checklist with specific UPI safety tips.
   # See: task-5-cybercrime/
-## Tools Used
+# Tools Used
 # Task Tool / Platform
 Infographic Canva (canva.com)
 Portfolio GitHub, LinkedIn, Kaggle
