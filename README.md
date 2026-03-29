@@ -1,23 +1,5 @@
 ## Digital-literacy
 A structured Digital Literacy Portfolio covering online presence, coding platforms, professional communication, and cyber safety — submitted as part of the Student Digital Ambassador assignment at VIT Bhopal University.
-## Repository Structure
-digital-literacy-project/
-├── README.md
-├── report/
-│   └── Project_Report.docx
-├── task-1-presentation/
-│   └── [infographic screenshot / Canva link]
-├── task-2-portfolio/
-│   └── [screenshots of GitHub, LinkedIn, Kaggle profiles]
-├── task-3-platforms/
-│   └── [coding challenge screenshot, Google Form screenshot]
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
 ## Task Summaries
 ### Task 1 – Digital Literacy Infographic 
 Created a one-page infographic using Canva covering what digital literacy is, safe internet
